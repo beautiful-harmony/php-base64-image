@@ -16,6 +16,8 @@ final class Image implements ImageContract
     private readonly Extension $extension;
 
     /**
+     * What's happen
+     *
      * @throws InvalidMimetypeException
      */
     public function __construct(private readonly string $data)

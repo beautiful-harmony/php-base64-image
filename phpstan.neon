@@ -1,0 +1,9 @@
+parameters:
+	level: 9
+	paths:
+		- src
+		- tests
+
+includes:
+    - phpstan-baseline.neon
+    - vendor/struggle-for-php/sfp-phpstan-dont-operation-inside-constructor/rules.neon
