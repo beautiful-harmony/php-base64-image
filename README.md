@@ -1,3 +1,5 @@
+# This fork is aimed for demo.
+
 # 📷 fuwasegu/php-base64-image
 [![Coverage Status](https://coveralls.io/repos/github/lunain84/php-base64-image/badge.svg?branch=master)](https://coveralls.io/github/lunain84/php-base64-image?branch=master)
 ![example workflow](https://github.com/lunain84/php-base64-image/actions/workflows/ci.yml/badge.svg)
