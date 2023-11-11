@@ -1,0 +1,11 @@
+parameters:
+	ignoreErrors:
+		-
+			message: "#^Class Fuwasegu\\\\PhpBase64Image\\\\Image has an uninitialized readonly property \\$extension\\. Assign it in the constructor\\.$#"
+			count: 1
+			path: src/Image.php
+
+		-
+			message: "#^Class Fuwasegu\\\\PhpBase64Image\\\\Image has an uninitialized readonly property \\$mimetype\\. Assign it in the constructor\\.$#"
+			count: 1
+			path: src/Image.php
