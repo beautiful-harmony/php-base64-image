@@ -6,3 +6,4 @@ parameters:
 
 includes:
     - phpstan-baseline.neon
+    - vendor/struggle-for-php/sfp-phpstan-dont-operation-inside-constructor/rules.neon

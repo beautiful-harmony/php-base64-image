@@ -36,6 +36,7 @@
   "require-dev": {
     "yumemi-inc/php-cs-fixer-config": "^8.1",
     "phpunit/phpunit": "^9.5",
-    "phpstan/phpstan": "^1.9"
+    "phpstan/phpstan": "^1.9",
+    "struggle-for-php/sfp-phpstan-dont-operation-inside-constructor": "^0.1.0"
   }
 }
